@@ -4,7 +4,7 @@
 A Space Theme Project by Rye High School
 
 #### Access the website [Here]()
-## Authors
+## Project Authors/Contributors
 
 - [@coltonhendricksen](https://github.com/coltonhendricksen)
 ## Features
